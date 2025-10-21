@@ -66,7 +66,7 @@ Actively supported precision farming, reducing uncertainty for growers, and show
 I thrive on real business challenges, teamwork, and continuous learning. If you’re seeking a data analyst ready to deliver value from day one, let’s talk!
 
 📮 **Email:** 1997.saiprakash@gmail.com  
-🔗 [View LinkedIn](your-linkedin-profile)
+🔗 [View LinkedIn](https://www.linkedin.com/in/sai-prakash-mereddy/)
 
 ---
 
