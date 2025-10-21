@@ -1,4 +1,4 @@
-# 🚀 Sai Prakash Reddy – Data Science Project Portfolio
+# 🚀 Sai Prakash Reddy – Data Science Projects Portfolio
 
 Welcome to my coding space!  
 I'm Sai Prakash, a data enthusiast with a knack for turning complex datasets into clear decisions and business results. My work blends statistical rigor with creative problem-solving to unlock value in every project. Explore below to see my skills in action across real-world scenarios.
