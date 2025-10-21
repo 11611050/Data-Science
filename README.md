@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sai Prakash – Welcome to My Data Science Projects!
+# 👋 Hi, I’m Sai Prakash Reddy – Welcome to My Data Science Projects!
 
 Thanks for dropping by my portfolio! This space showcases my passion for finding insights in data, building useful tools, and having a bit of fun along the way. Below are a few projects I really enjoyed working on—each one taught me something new about analytics, code, and the world it describes.
 
