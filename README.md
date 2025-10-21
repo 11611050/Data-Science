@@ -67,7 +67,7 @@ I thrive on real business challenges, teamwork, and continuous learning. If you�
 
 📮 **Email:** 1997.saiprakash@gmail.com  
 🔗 [View LinkedIn](https://www.linkedin.com/in/sai-prakash-mereddy/)
-🔗 [View HuggingFace](https://huggingface.co/saiprakash97)
+🔗 [View Hugging Face](https://huggingface.co/saiprakash97)
 
 ---
 
