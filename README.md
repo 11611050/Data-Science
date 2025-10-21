@@ -66,8 +66,8 @@ Actively supported precision farming, reducing uncertainty for growers, and show
 I thrive on real business challenges, teamwork, and continuous learning. If you’re seeking a data analyst ready to deliver value from day one, let’s talk!
 
 📮 **Email:** 1997.saiprakash@gmail.com  
-🔗 [View LinkedIn](https://www.linkedin.com/in/sai-prakash-mereddy/)
-🔗 [View Hugging Face](https://huggingface.co/saiprakash97)
+🔗**LinkedIN:** [LinkedIn](https://www.linkedin.com/in/sai-prakash-mereddy/)
+🔗**HuggingFace:** [Hugging Face](https://huggingface.co/saiprakash97)
 
 ---
 
